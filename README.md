@@ -21,3 +21,5 @@ https://www.tensorflow.org/datasets/catalog/mnist
 Inspiration:
 https://keras.io/guides/sequential_model/
 
+The dataset csv files were too large to upload on github but here is a link to the dataset:
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset
