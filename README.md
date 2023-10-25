@@ -5,11 +5,7 @@ Our project makes use of artificial neural networks.
 Group Members are:
 
 Josiah Mbao - 667823
-Shamsudin Ibrahim - 663599
-Nathan Macharia - 665286
-Grace Muriithi - 664837
 
-Tools used:
 - Python
 - Keras library
 - Pandas library
