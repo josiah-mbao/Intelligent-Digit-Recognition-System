@@ -17,6 +17,8 @@ Tools used:
 
 We got our dataset of 60,000 images from the MNIST Database.
 https://www.tensorflow.org/datasets/catalog/mnist
+Use this link if dealing with issues downloading the files:
+https://pjreddie.com/projects/mnist-in-csv/
 
 Inspiration:
 https://keras.io/guides/sequential_model/
